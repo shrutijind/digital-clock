@@ -8,6 +8,7 @@ height:50vh;
 justify-content:center;
 background:url("https://media.istockphoto.com/id/2292285873/photo/image-of-green-grass-field-and-bright-blue-sky.jpg?s=612x612&w=0&k=20&c=YAvVPcFs6oIsrGOjUpv8qHjz0uXF6xIoFaJiWaRxCFY=");
 background-size:cover;
+overflow:hidden;
 }
 h2
 {
